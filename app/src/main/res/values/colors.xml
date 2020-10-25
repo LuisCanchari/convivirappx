@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008037</color>
+    <color name="colorPrimaryDark">#004AAD</color>
+    <color name="colorAccent">#02BA51</color>
+
+    <color name="colorConvivirPrimary">#008037</color>
+    <color name="colorConvivirSecondary">#004AAD</color>
+    <color name="colorConvivirAccent">#02BA51</color>
+    <color name="colorConvivirLine">#FF1616</color>
+    <color name="colorConvivirTextWhite">#F2F2F2</color>
+    <color name="colorConvivirBackground">#E0DBDB</color>
+</resources>

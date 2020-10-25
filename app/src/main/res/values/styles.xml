@@ -1,0 +1,35 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppTheme.ConvivirEditTextStyle" parent="AppTheme">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/colorConvivirSecondary</item>
+        <item name="hintTextColor">@color/colorConvivirSecondary</item>
+        <item name="android:editTextBackground">@color/colorConvivirPrimary</item>
+        <item name="backgroundColor">@color/colorConvivirPrimary</item>
+        <item name="android:drawablePadding">12dp</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="fontFamily">@font/roboto</item>
+
+    </style>
+
+</resources>
